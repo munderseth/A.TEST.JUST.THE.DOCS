@@ -1,5 +1,6 @@
 ---
 testspace:
+title: Sign Up
 ---
 
 # Sign Up

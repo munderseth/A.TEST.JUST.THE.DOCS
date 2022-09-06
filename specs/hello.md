@@ -1,5 +1,6 @@
 ---
 testspace:
+title: Hello
 ---
 
 # Hello
